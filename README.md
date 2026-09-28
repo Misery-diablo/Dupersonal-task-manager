@@ -69,3 +69,4 @@ Click Pending/Completed → screenshot
 ![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/61e3f846d5e91c3066ddb7f0f211ba5e83abe4da/Messenger_creation_9017D3BB-D59E-4F22-AEB3-8774FA9D0301.jpeg)
 Delete a task → screenshot
 ![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/181ee160287c5cf1d0a65a79ff41fee785d72ded/Messenger_creation_74207AC1-E0F0-4D95-A927-60917188E474.jpeg)
+![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/5e8bf2e58244a66e2e80302fd301e0988772cb38/Messenger_creation_24E1F99D-B8BD-45FC-A9F4-9AED2699E241.jpeg)
