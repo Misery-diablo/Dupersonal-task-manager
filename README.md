@@ -54,3 +54,5 @@ The project uses a `tasks` table with the following fields:
 - `due_date`
 - `created_at`
 - `updated_at`
+## Screenshot 
+![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/3efdb5ee9d5f2fac2ab401a02e5383abb461cf22/Messenger_creation_D4AD32C6-6EC4-46CE-A5CD-5F3FAFE21889.jpeg)
