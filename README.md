@@ -63,4 +63,5 @@ Fill in a task → submit → screenshot
 ![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/e1b1a0a011272f8f6bdb5b4d8849cc6dab65ac55/Messenger_creation_D2C185E3-78EA-4169-BEC6-FAFCB96CE0CC.jpeg)
 Task List with new task → screenshot
 ![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/1c685a2f19e00b3caec4ac125aafb90377386d57/Messenger_creation_32F8B549-06BA-4CCC-9455-82F1246EAFB5.jpeg)
-
+Click Edit → screenshot
+![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/3efcbb9748f6b700669d7078a5a24bb45336fc71/Messenger_creation_32CD6D64-DA25-45B1-8819-0E9AA0587032.jpeg)
