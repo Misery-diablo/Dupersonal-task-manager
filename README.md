@@ -65,3 +65,5 @@ Task List with new task → screenshot
 ![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/1c685a2f19e00b3caec4ac125aafb90377386d57/Messenger_creation_32F8B549-06BA-4CCC-9455-82F1246EAFB5.jpeg)
 Click Edit → screenshot
 ![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/3efcbb9748f6b700669d7078a5a24bb45336fc71/Messenger_creation_32CD6D64-DA25-45B1-8819-0E9AA0587032.jpeg)
+Click Pending/Completed → screenshot
+![image alt](https://github.com/Misery-diablo/Dupersonal-task-manager/blob/61e3f846d5e91c3066ddb7f0f211ba5e83abe4da/Messenger_creation_9017D3BB-D59E-4F22-AEB3-8774FA9D0301.jpeg)
